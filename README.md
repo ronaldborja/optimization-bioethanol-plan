@@ -19,3 +19,5 @@ The design must meet the following criteria:
 * One million gallons of ethanol with 95% purity must be produced.
 * The sugar-to-ethanol conversion factor must never exceed 50%.
 * The ethanol concentration during the fermentation process must not exceed 10% to avoid killing the yeast.
+
+-> The main objective of this problem is to minimize the EAOC to find the optimal reactor conversion, reflux ratio and ethanol composition in the bottom of the dist. column. 
