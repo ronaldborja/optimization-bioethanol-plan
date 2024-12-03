@@ -4,7 +4,7 @@ The use of biomass for the production of alternative and renewable fuels is a gl
 
 Ethanol produced from biomass is currently being integrated into the fuel industry. Ethanol and gasoline blends are now being used as automotive fuel. The amount of carbon dioxide produced by ethanol combustion is significantly lower than that of gasoline.
 
-![imagen](https://github.com/user-attachments/assets/13495ed3-baec-47fd-b216-6b767dc2de26)
+<center>![imagen](https://github.com/user-attachments/assets/13495ed3-baec-47fd-b216-6b767dc2de26)</center>
 
 In 2006, 83% of ethanol plants in the United States used corn as the raw material for ethanol production; however, the amount of ethanol produced per acre of corn per year is lower compared to other raw materials, such as sugar beet or sugarcane. You are tasked with optimizing an ethanol plant that uses corn as its raw material.
 
